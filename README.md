@@ -1,1 +1,1 @@
-# codsoft-landing-page
+# LANDING-PAGE
